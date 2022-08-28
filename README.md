@@ -1,4 +1,4 @@
- ##olá, eu sou Raphael Pinho, estudante de ciência da computação
+ ##olá, eu sou Raphael Pinho, estudante de ciência da computação.
  
  <div align="center">
   <a href="https://github.com/raphapinho">
